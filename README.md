@@ -11,7 +11,8 @@ Link to project https://weather-app-liart-delta.vercel.app/
 
 # Tech Used:
 
-HTML,CSS and Javascript: The front-end development of the app.
+HTML,CSS and Javascript:
+The front-end development of the app.
 Weather API: Retrives weather data based on users location.
 
 # Lessons Learned:
